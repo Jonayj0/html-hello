@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    padding-top: 50px;
+}
+div.post{
+    margin: auto;
+    width: 500px;
+}
+div.header{
+    display: flex;
+    background-color: white;
+    height: 60px;
+    align-items: center;
+}
+.icon-html5{
+    width: 5%;
+    padding-left: 15px;
+    font-size: 28px;
+}
+.header-tittle{
+    width: 90%;
+    margin: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.icon-points{
+   padding-right: 15px;
+   font-size: 30px;
+}    
+.img {   
+    height: 400px;
+}
+.content{
+    background-color: white;
+    padding: 15px;
+}
+.content-icons{
+    display: flex;
+    width: 100%;
+    font-size: 25px;
+}
+.bookmark{
+    width: 100%;
+    text-align: right;
+    padding-right: 5px;
+}
